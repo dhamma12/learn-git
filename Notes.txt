@@ -92,3 +92,13 @@ Step 3 : Merge new branch in master branch
 Step 4 : Delete branch
    git branch -d “branch name”    — delete from local
    git push origin —delete “branch name”   — delete from remote
+
+
+email services are replaced and new options introduced. The new option is Github - Repository - Settings - Notification - add your email-ID
+Today we will learn
+How to trigger notification email from github 
+whenever there is any change/commit in the project
+
+Step 1 : Github - Repository - Settings - integration & services - add email 
+
+Step 2 : Test and validate by making some change in the project
